@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
-import activity1Image from "@/assets/activity1.jpg";
+import activity1Image from "@/assets/WhatsApp Image 2025-11-03 at 21.10.07_fe4ffc2c.jpg";
 
 const Activity1 = () => {
   return (

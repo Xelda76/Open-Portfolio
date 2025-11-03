@@ -3,7 +3,9 @@ import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
-import activity3Image from "@/assets/activity3.jpg";
+// ...existing code...
+import activity3Image from "@/assets/WhatsApp Image 2025-11-03 at 21.10.22_209fa46b.jpg";
+// ...existing code...
 
 const Activity3 = () => {
   return (
